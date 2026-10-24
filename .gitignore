@@ -1,1 +1,6 @@
 node_modules
+
+# Python bytecode — this repo now ships a Hermes plugin, so importing
+# __init__.py writes __pycache__/*.pyc next to the source.
+__pycache__/
+*.pyc
