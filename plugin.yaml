@@ -1,0 +1,5 @@
+name: skills
+version: "1.0.1"
+description: "Matt Pocock's engineering and productivity skill pack (mattpocock/skills), vendored here as a Hermes plugin so every skill in the repo is loadable under the 'skills:' namespace — grilling interviews, triage, TDD, domain modeling, issue/PRD writing, and handoffs. Skills register read-only from the repo's own layout; the upstream .claude-plugin/plugin.json remains the source of truth for which skills are promoted."
+author: "Matt Pocock (mattpocock/skills), vendored by mointit"
+kind: standalone
